@@ -1,19 +1,31 @@
 {
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2020-07-19 17:19:49 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
+  "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
-      "has_diamond": "2020-07-19 15:09:29 -0600"
+      "has_planks": "2020-07-19 22:21:17 -0600"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
-      "iron_pickaxe": "2020-07-19 17:19:49 -0600"
+      "has_diamond": "2020-07-19 15:09:29 -0600"
     },
     "done": true
   },
@@ -29,13 +41,92 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-07-19 15:09:29 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_shovel": {
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-07-19 15:09:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-07-19 15:09:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2020-07-19 17:19:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2020-07-19 15:09:32 -0600",
+      "minecraft:plains": "2020-07-19 14:57:16 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-07-19 15:09:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-07-19 17:19:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-07-19 15:09:29 -0600"
     },
@@ -53,9 +144,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-07-19 22:21:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-07-19 15:09:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-07-19 22:21:30 -0600"
     },
     "done": true
   },
@@ -71,38 +174,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_diamond": "2020-07-19 15:09:29 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2020-07-19 15:09:29 -0600"
+      "has_planks": "2020-07-19 22:21:17 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2020-07-19 15:09:29 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2020-07-19 17:19:49 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:desert": "2020-07-19 15:09:32 -0600",
-      "minecraft:plains": "2020-07-19 14:57:16 -0600"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-07-19 15:09:29 -0600"
     },
