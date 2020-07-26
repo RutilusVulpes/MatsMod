@@ -1,6 +1,13 @@
 {
     "item.drainmod.ruby": "Ruby",
+    "item.drainmod.ruby_sword": "Ruby Sword",
+    "item.drainmod.ruby_axe": "Ruby Axe",
+    "item.drainmod.ruby_shovel": "Ruby Shovel",
+    "item.drainmod.ruby_pick": "Ruby Pickaxe",
+    "item.drainmod.ruby_hoe": "Ruby Hoe",
     "block.drainmod.ruby_block": "Block of Ruby",
     "block.drainmod.ruby_ore": "Ruby Ore",
+    "block.drainmod.stall": "Trade Stall",
+
     "ItemGroup.drainTab": "MatsMod"
 }
