@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        },
+        {
+            "tag": "drainmod:ruby"
+        }
+    ],
+    "result":
+    {
+        "item": "drainmod:ruby_block",
+        "count": 1
+    }
+}

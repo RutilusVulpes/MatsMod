@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xx ",
+        " y ",
+        " y "
+    ],
+    "pattern": [
+        " xx",
+        " y ",
+        " y "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "tag": "drainmod:ruby"
+        },
+        "y":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "drainmod:ruby_hoe"
+    }
+}

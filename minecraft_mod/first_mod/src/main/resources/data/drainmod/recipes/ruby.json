@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "drainmod:ruby_block"
+        }
+    ],
+    "result":
+    {
+        "item": "drainmod:ruby",
+        "count": 9
+    }
+}
